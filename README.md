@@ -3,7 +3,7 @@
 
 <hr>
 
-This repository contains the scripts needed to generate the figures and analysis as reported in Ling Hu et al. 2022 (JCI, under review). The script may need to be adapted to the local environment. Due to IRB constraints we are unable to share clinical data used to generate this data. We do however include GISAID accession IDs used to generate the trees in Figure 2. 
+This repository contains the scripts needed to generate the figures and analysis as reported in Ling Hu et al. 2024 (JCI, under review). The script may need to be adapted to the local environment. Due to IRB constraints we are unable to share clinical data used to generate this data. We do however include GISAID accession IDs used to generate the trees in Figure 2. 
 
 
 # Highlights
