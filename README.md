@@ -66,4 +66,4 @@ iqtree2 -s Aligned.fasta -T AUTO --alrt 1000 #for Chicago phylogeny also -B 1000
 
 ### Sequence IDs from GISAID
 
-<a href="[https://github.com/tedlinghu/molecular_epidemiology_covid19_chicago/blob/main/Data/usa_sequenceid_gisaid.csv](https://github.com/tedlinghu/rdv_resistance/blob/main/Data/Supplementary%20Table%202.xlsx)">Accession IDs for sequences from Northwestern</a>
+<a href="https://github.com/tedlinghu/rdv_resistance/blob/main/Data/Supplementary%20Table%202.xlsx">Accession IDs for sequences from Northwestern</a>
