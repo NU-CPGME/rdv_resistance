@@ -1,5 +1,5 @@
 # The impact of remdesivir on SARS-CoV-2 evolution <i>in vivo </i>
-<b>Ted Ling Hu</b>, Lacy M. Simons, Estefany Rios Guzman, Alexandre Machado de Sant'Anna Carvalho, Maria Francesca Agnes, Arghavan Alisoltanidekhordi, Egon A. Ozer, <b>Ramon Lorenzo-Redondo</b>, & <b>Judd F. Hultquist</b>
+<b>Ted Ling Hu</b>, Lacy M. Simons, Estefany Rios Guzman, Alexandre Machado de Sant'Anna Carvalho, Maria Francesca Agnes, Arghavan Alisoltanidekhordi, Egon A. Ozer, <b>Ramon Lorenzo-Redondo</b> & <b>Judd F. Hultquist</b>
 
 <hr>
 
