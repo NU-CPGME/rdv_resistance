@@ -9,14 +9,13 @@ This repository contains the scripts needed to generate the figures and analysis
 # Highlights
 <hr>
 <ul>
-  <li>Remdesivir was the first FDA approved antiviral for the treatment of SARS-CoV-2. </li>
-  <li>Since then, remdesivir has been widely administered.</li>
+  <li>Remdesivir was the first FDA approved antiviral for the treatment of SARS-CoV-2 and has been widely administered. </li>
   <li>Genomic surveillance conducted by Northwestern University reveals that there is preferential selection of mutations in specific nucleotides that may be implicated in enhanced viral fitness in SARS-CoV-2 when treated with remdesivir.</li>
 </ul>
 
 # Summary
 <hr>
-In this retrospective cohort study, we characterize SARS-CoV-2 diversity and diversification over time in two hospitalized patient cohorts, one who received remdesivir and one who did not. Using viral whole genome sequencing, phylogenetics, and statistical modelling across a total of 385 patients, we find that mutations previously implicated in remdesivir resistance arose rarely in vivo. However, remdesivir administration did result in the preferential selection of mutations across the genome associated with increased fitness. This suggests that variants with enhanced fitness may be selected for in the presence of antiviral therapy as an indirect way to counteract this selective pressure. ![image](https://github.com/tedlinghu/rdv_resistance/assets/24252731/4ae106cb-f18c-427d-9aba-d52127862f84)
+In this retrospective cohort study, we characterize SARS-CoV-2 diversity and diversification over time in two hospitalized patient cohorts, one who received remdesivir and one who did not. Using viral whole genome sequencing, phylogenetics, and statistical modelling across a total of 385 patients, we find that mutations previously implicated in remdesivir resistance arose rarely in vivo. However, remdesivir administration did result in the preferential selection of mutations across the genome associated with increased fitness. This suggests that variants with enhanced fitness may be selected for in the presence of antiviral therapy as an indirect way to counteract this selective pressure.
 
 
 # Dependencies
